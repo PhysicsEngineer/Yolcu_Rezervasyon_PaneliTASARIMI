@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ucus_Rezervasyon_Sistemi/1.0.0": {
+        "runtime": {
+          "Ucus_Rezervasyon_Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ucus_Rezervasyon_Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
